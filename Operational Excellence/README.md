@@ -5,12 +5,16 @@ Define your workflows and AWS resources as code
 Code is repeatable and executes quickly
 Easily track changes 
 ```
-#### Cloud Formation => AWS iaas
-```
-AWS developer Tools: Code Commit is same as git on AWS
-Code Deploy
-Code Pipeline
-```
+
+Cloud Formation
+
+AWS developer Tools 
+- Code Deploy
+- Code Pipeline
+
+> [!TIP]
+> Code Commit is same as git on AWS
+
 #### AWS Systems Manager
 ```
 OS Patching
@@ -23,9 +27,9 @@ Cloudformation terminiology
 ```
 #### Lab Setup
 
-#### Stacks
+Stacks
 
-> [TIP]
+> [!TIP]
 > AWS resources that you create, update and delete as a single unit.
 
 #### Template
